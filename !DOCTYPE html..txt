@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallpapers Incríveis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+        }
+        .gallery img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+            transition: transform 0.3s;
+        }
+        .gallery img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Galeria de Wallpapers</h1>
+    <div class="gallery">
+        <img src="https://source.unsplash.com/400x300/?nature" alt="Natureza">
+        <img src="https://source.unsplash.com/400x300/?space" alt="Espaço">
+        <img src="https://source.unsplash.com/400x300/?city" alt="Cidade">
+        <img src="https://source.unsplash.com/400x300/?technology" alt="Tecnologia">
+        <img src="https://source.unsplash.com/400x300/?animals" alt="Animais">
+        <img src="https://source.unsplash.com/400x300/?abstract" alt="Abstrato">
+    </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallpapers Incríveis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+        }
+        .gallery img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+            transition: transform 0.3s;
+        }
+        .gallery img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Galeria de Wallpapers</h1>
+    <div class="gallery">
+        <img src="https://source.unsplash.com/400x300/?nature" alt="Natureza">
+        <img src="https://source.unsplash.com/400x300/?space" alt="Espaço">
+        <img src="https://source.unsplash.com/400x300/?city" alt="Cidade">
+        <img src="https://source.unsplash.com/400x300/?technology" alt="Tecnologia">
+        <img src="https://source.unsplash.com/400x300/?animals" alt="Animais">
+        <img src="https://source.unsplash.com/400x300/?abstract" alt="Abstrato">
+    </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallpapers Incríveis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+        }
+        .gallery img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+            transition: transform 0.3s;
+        }
+        .gallery img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Galeria de Wallpapers</h1>
+    <div class="gallery">
+        <img src="https://source.unsplash.com/400x300/?nature" alt="Natureza">
+        <img src="https://source.unsplash.com/400x300/?space" alt="Espaço">
+        <img src="https://source.unsplash.com/400x300/?city" alt="Cidade">
+        <img src="https://source.unsplash.com/400x300/?technology" alt="Tecnologia">
+        <img src="https://source.unsplash.com/400x300/?animals" alt="Animais">
+        <img src="https://source.unsplash.com/400x300/?abstract" alt="Abstrato">
+    </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallpapers Incríveis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+        }
+        .gallery img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+            transition: transform 0.3s;
+        }
+        .gallery img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Galeria de Wallpapers</h1>
+    <div class="gallery">
+        <img src="https://source.unsplash.com/400x300/?nature" alt="Natureza">
+        <img src="https://source.unsplash.com/400x300/?space" alt="Espaço">
+        <img src="https://source.unsplash.com/400x300/?city" alt="Cidade">
+        <img src="https://source.unsplash.com/400x300/?technology" alt="Tecnologia">
+        <img src="https://source.unsplash.com/400x300/?animals" alt="Animais">
+        <img src="https://source.unsplash.com/400x300/?abstract" alt="Abstrato">
+    </div>
+</body>
+</html>
